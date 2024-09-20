@@ -15,7 +15,8 @@ CO3: Implement Monte Carlo methods for prediction 
 CO4: Analyze temporal-difference learning and eligibility traces.
 
 
-Unit-1 : Reinforcement Learning Problem and Multi-arm Bandits    Teaching Hours: 12
+Unit-1 : Reinforcement Learning Problem and Multi-arm Bandits   
+
 Definition of a stochastic multi-armed bandit, A k-armed Bandit Problem, Definition of
 regret, Tracking a Nonstationary Problem, Upper-Confidence-Bound Action Selection, KL-
 UCB, Gradient Bandits. 
@@ -27,7 +28,6 @@ Self-study topics: Basics of probability and linear algebra.
 
 
 Unit-2 : Finite Markov Decision Processes
-            
 Markov Decision Problem, policy, and value function, Reward models (infinite discounted,
 total, finite horizon, and average), Episodic & continuing tasks, Bellmans optimality
 operator, and Value iteration & policy iteration
