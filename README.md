@@ -28,6 +28,7 @@ Self-study topics: Basics of probability and linear algebra.
 
 
 Unit-2 : Finite Markov Decision Processes
+
 Markov Decision Problem, policy, and value function, Reward models (infinite discounted,
 total, finite horizon, and average), Episodic & continuing tasks, Bellmans optimality
 operator, and Value iteration & policy iteration
@@ -35,7 +36,8 @@ Lab: Implement Markov Decision Process (MDP) Simulation and Value Iteration
           Develop a program to perform policy evaluation and improvement for a given MDP
 
           
-Unit-3 : Monte Carlo Methods                                        
+Unit-3 : Monte Carlo Methods        
+
 The Reinforcement Learning problem, prediction and control problems, Model-based
 algorithm, Monte Carlo methods for prediction, and Online implementation of Monte Carlo
 policy evaluation 
@@ -47,6 +49,7 @@ decision-making.
 
 
 Unit-4 : Temporal-Difference Learning 
+
 Bootstrapping; TD(0) algorithm; Convergence of Monte Carlo and batch TD(0) algorithms;
 Model-free  control: Q-learning, Sarsa, Expected Sarsa
 
@@ -56,7 +59,8 @@ Implement Q-learning and SARSA algorithms for action-value estimation and policy
 improvement.
 
 
-Unit-5 : Eligibility Traces                                              
+Unit-5 : Eligibility Traces      
+
 n-step returns; TD(λ) algorithm; Need for generalization in practice; Linear function
 approximation and  geometric view; Linear TD(λ). Tile coding; Control with function
 approximation; Policy search; Policy  gradient methods; Experience replay; Fitted Q
